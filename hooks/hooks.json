@@ -1,0 +1,4 @@
+{
+  "description": "cc-quota-band: context and weekly quota in the band above the prompt",
+  "modules": ["./register.js"]
+}

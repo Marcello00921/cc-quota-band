@@ -1,0 +1,7 @@
+{
+  "name": "cc-quota-band",
+  "version": "0.1.0",
+  "description": "Band above the prompt: context used, last-turn growth, weekly quota and today's spend against a daily pace. Tested on Claude Code 2.1.292; mods need 2.1.287 or later.",
+  "author": { "name": "Marcello Zamproni" },
+  "license": "MIT"
+}
